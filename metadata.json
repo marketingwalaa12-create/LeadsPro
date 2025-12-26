@@ -1,0 +1,7 @@
+{
+  "name": "LeadGen Pro AI",
+  "description": "A high-performance lead extraction and generation tool powered by Gemini AI, capable of gathering business contact details from Google Maps and Web Search with CSV export functionality.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
